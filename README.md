@@ -1,0 +1,1 @@
+About the first day of C programming
