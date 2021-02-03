@@ -1,4 +1,4 @@
-/** main.c **/
+/** main **/
 int main(void)
 {
  puts("Progamming is like building a multilingual puzzle");
